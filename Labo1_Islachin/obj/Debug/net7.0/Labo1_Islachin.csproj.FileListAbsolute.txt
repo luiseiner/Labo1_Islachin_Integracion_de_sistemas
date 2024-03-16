@@ -1,0 +1,14 @@
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\bin\Debug\net7.0\Labo1_Islachin.exe
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\bin\Debug\net7.0\Labo1_Islachin.deps.json
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\bin\Debug\net7.0\Labo1_Islachin.runtimeconfig.json
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\bin\Debug\net7.0\Labo1_Islachin.dll
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\bin\Debug\net7.0\Labo1_Islachin.pdb
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\obj\Debug\net7.0\Labo1_Islachin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\obj\Debug\net7.0\Labo1_Islachin.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\obj\Debug\net7.0\Labo1_Islachin.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\obj\Debug\net7.0\Labo1_Islachin.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\obj\Debug\net7.0\Labo1_Islachin.dll
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\obj\Debug\net7.0\refint\Labo1_Islachin.dll
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\obj\Debug\net7.0\Labo1_Islachin.pdb
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\obj\Debug\net7.0\Labo1_Islachin.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\Labo1_Islachin\Labo1_Islachin\obj\Debug\net7.0\ref\Labo1_Islachin.dll
